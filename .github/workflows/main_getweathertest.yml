@@ -41,4 +41,4 @@ jobs:
           app-name: 'getweathertest'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE15C8F3570A49DD9FA646655A96FF36 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D692F77E9E74A69B04F9AD03B65D089 }}
